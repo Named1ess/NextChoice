@@ -7,3 +7,4 @@ claude-code-desktop：CodePilot
 Github Desktop: rebased
 Telegram：Plus Messenger
 Google Play：F-Droid
+explorer：Directory Opus
