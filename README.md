@@ -4,3 +4,6 @@ A community-driven collection of software replacements, better tools, and afford
 claude-code：claude-code-best
 cmd/powershell：Warp
 claude-code-desktop：CodePilot
+Github Desktop: rebased
+Telegram：Plus Messenger
+Google Play：F-Droid
